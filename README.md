@@ -12,4 +12,4 @@ torch = 2.0.1
 mne = 1.7.1
 
 ## dataset
-The SWEC-ETHZ Short-Term dataset is available for download at: http://ieeg-swez.ethz.ch
+The SWEC-ETHZ Short-Term and Long-Term datasets are available for download at: http://ieeg-swez.ethz.ch
